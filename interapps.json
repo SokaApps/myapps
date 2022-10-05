@@ -1,39 +1,20 @@
 [
 	{
-		"appIcon": "https://lh3.googleusercontent.com/vvp6Ev33xPerWBBOtIRyAHl7k5c4wQ72hGwG3EU4JC-BTjfvb5DSJDeMABaRg0fy_KI=s180",
-		"appName": "Sleepy - Phone Addiction Controller",
-		"appDescription": "The smartest app to reduce phone addiction",
-		"url": "https://play.google.com/store/apps/details?id=p32929.lazyphone"
+		"appIcon": "https://play-lh.googleusercontent.com/20VheiGrzqzhiCz89zrQSgyXD4oIKHg4ky0jSp6KtHT6XNjtfO6FcZWKbmZxzp6mFWc=w480-h960-rw",
+		"appName": "استرجاع الصور و الفيديوهات",
+		"appDescription": "تطبيق استرجاع الصور و الفيديوهات المحذوفة من الهاتف",
+		"url": "https://play.google.com/store/apps/details?id=com.sokaapps.filesrecoveryarabic"
 	},
 	{
-		"appIcon": "https://lh3.googleusercontent.com/EPW9ERgwRYA47SsgLCiA0vF7irRoPIhS0tA3JdIrgQ5-xmaqVBJKt69-jLW1JAtgD6w=s180",
-		"appName": "Best CGPA Calculator",
-		"appDescription": "Best CGPA Calculator app for Android",
-		"url": "https://play.google.com/store/apps/details?id=p32929.cgpa_calculator2"
+		"appIcon": "https://play-lh.googleusercontent.com/GmKY3DH8HhGScFGn4RGuLOvxwmVjrhiTJYrvW6cGcOfn6uqOMVIni4ybRzrlgadVIxA=w480-h960-rw",
+		"appName": "استرجاع الملفات المحذوفة",
+		"appDescription": "افضل تطبيق لاسترجاع جميع الملفات المحذوفة",
+		"url": "https://play.google.com/store/apps/details?id=com.sokaapps.recoverdeletedfiles.arabicapp"
 	},
 	{
-		"appIcon": "https://lh3.googleusercontent.com/xtHAhxY3kp0O2hDSgLIQlXvreSQsHV-6ApulPeLJ-j4QrjyXD_OQfYdk88hbFYad8q0=s180",
-		"appName": "Buy Sell BD",
-		"appDescription": "Buy-Sell everything easily in Bangladesh",
-		"url": "https://play.google.com/store/apps/details?id=p32929.buysellbd"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/ILrto9KguXlr-clbhYKUonpnHszgNp_N5Qvc8_u9QaM71oaqNKcYql2sV3sqZ7nqzsc=s180",
-		"appName": "Desplash",
-		"appDescription": "Beautiful automatic wallpapers from Unsplash",
-		"url": "https://play.google.com/store/apps/details?id=p32929.desplash"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/ni-lk3b2nTMZyC7r1wYBW6cm9eYqGAN-t6fXV-kD0lSyw1lO3kenC1We71fZjSryvFII=s180",
-		"appName": "The Great Postman",
-		"appDescription": "Best REST API Client for Android",
-		"url": "https://play.google.com/store/apps/details?id=p32929.greatpostman"
-	},
-	{
-		"appIcon": "https://lh3.googleusercontent.com/X8mRJd7JajvDXoW7NaluKt2IvC3osH6czkTPoWeSYJ96U2LWLKT4xiFgvNouwf-UvEk=s180",
-		"appName": "ExIn",
-		"appDescription": "A very simple Income-Expense tracker",
-		"url": "https://play.google.com/store/apps/details?id=p32929.exin"
+		"appIcon": "https://play-lh.googleusercontent.com/NaD4iu7zM-fFshVlepGes3Vmq98Gmx3aTWCNcvGJHuDQKCbqLTfDg7gzHrA6xBtTaHCJ=w480-h960-rw",
+		"appName": "تحميل حالات الواتس اب",
+		"appDescription": "تحميل جميع نواع الحالات",
+		"url": "https://play.google.com/store/apps/details?id=com.sokaapps.statussaverarabic"
 	}
-	
 ]
