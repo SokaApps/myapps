@@ -16,5 +16,23 @@
 		"appName": "تحميل حالات الواتس اب",
 		"appDescription": "تحميل جميع نواع الحالات",
 		"url": "https://play.google.com/store/apps/details?id=com.sokaapps.statussaverarabic"
-	}
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/13nAWr08rTZ9wwdNkihduydFGPMTwuhrNW2r_OEgXftGcE1eg3zAIl77zFYkJowch7_p=w480-h960-rw",
+		"appName": "استرجاع الصور المحذوفة",
+		"appDescription": "تحميل جميع نواع الحالات",
+		"url": "https://play.google.com/store/apps/details?id=com.sokaapps.photorecoveryarabic"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/13nAWr08rTZ9wwdNkihduydFGPMTwuhrNW2r_OEgXftGcE1eg3zAIl77zFYkJowch7_p=w480-h960-rw",
+		"appName": "Battery Life Saver",
+		"appDescription": "Battery Life Saver and Booster",
+		"url": "https://play.google.com/store/apps/details?id=com.sokaapps.batterysaver"
+	},
+	{
+		"appIcon": "https://play-lh.googleusercontent.com/13nAWr08rTZ9wwdNkihduydFGPMTwuhrNW2r_OEgXftGcE1eg3zAIl77zFYkJowch7_p=w480-h960-rw",
+		"appName": "Phone Digger",
+		"appDescription": "Phone Digger: Photo and Video Recovery App",
+		"url": "https://play.google.com/store/apps/details?id=com.sokaapps.recoverdeletedpictures"
+	},
 ]
